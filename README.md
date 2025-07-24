@@ -11,6 +11,8 @@ This project is a simple and responsive landing page for selling an online cours
 - Instructor bio section
 - Clean and modern UI with CSS
 
+  ## DEMO LIVE LINK: https://adityakumarsingh07.github.io/codsoft-task2/
+
 ## How to Use
 
 1. Clone or download the project
